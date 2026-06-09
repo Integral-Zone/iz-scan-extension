@@ -1,4 +1,4 @@
-# Falcon Scan
+# IZ Scan
 **Analyze and fix Mule, API, and more with Falcon Scan!**
 Falcon Scan is a powerful code analysis tool for VS Code, empowering developers to ensure high-quality code by leveraging custom and pre-built rule sets. Developed by Integral Zone, it's designed to work seamlessly with various projects including Mule and API.
 
@@ -10,19 +10,19 @@ Falcon Scan is a powerful code analysis tool for VS Code, empowering developers 
 5. **Integrated Issue Viewer**: View all identified issues directly within your project files in VS Code.
 
 ## Getting Started
-1. **Installation**: Install Falcon Scan from the VS Code marketplace.  
-2. **Licensing**: Before using Falcon Scan, ensure you have a valid license. Without a license, Falcon Scan's capabilities will be restricted.  
+1. **Installation**: Install IZ Scan from the VS Code marketplace.  
+2. **Licensing**: Before using IZ Scan, ensure you have a valid license. Without a license, IZ Scan's capabilities will be restricted.  
 3. **Setup**: After installation and licensing, set up your rule profiles or use the pre-built ones to start scanning!
 
 ## How to Use
-1. **Scan**: Right-click on your project file in VS Code and select 'Falcon Scan' to analyze.  
+1. **Scan**: Right-click on your project file in VS Code and select 'IZ Scan' to analyze.  
 2. **View Issues**: Detected issues will be highlighted. Click on an issue to view details and suggested fixes.  
 3. **Auto-fix**: For issues with suggested fixes, use the auto-fix feature to instantly correct your code.
 ## Licensing
 Falcon Scan requires a license to unlock its full potential. Contact [Integral Zone](https://integralzone.com/contact/) for licensing details.
 
 ## Support & Feedback
-For support, feedback, or feature requests, please reach out to Integral Zone's support team or create an issue on our [GitHub repository](https://github.com/Integral-Zone/falcon-scan-extension).
+For support, feedback, or feature requests, please reach out to Integral Zone's support team or create an issue on our [GitHub repository](https://github.com/Integral-Zone/iz-scan-extension).
 
 ## About 
 **Integral Zone** specializes in creating developer-centric tools aimed at enhancing productivity and ensuring high code standards. Visit our [website]([https://www.integralzone.com](https://www.integralzone.com/)) for more information.
